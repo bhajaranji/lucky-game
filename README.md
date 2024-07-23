@@ -1,3 +1,5 @@
 # lucky-game
-This is my first respository by abhinay kolkur
+This is my first respository 
+<br>
+technolgies:java using Jdbc.
 
